@@ -1,0 +1,54 @@
+body
+{
+    background-color: #1e3237;
+    color: #545864;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+h1
+{
+
+    color: #73888e;
+
+}
+h2
+{
+    color: #73888e ;
+}
+h3
+{
+    color: #1e3237;
+    font-size: 25px;
+}
+h4
+{
+  color: #1e3237 ;
+  font-size: 20px;
+}
+li
+{
+  color: #73888e ;
+}
+li:hover
+{
+    color: #5e7378 ;
+}
+.caixa-post  div
+{
+    display: inline-block;
+    width: calc( 33% - 16px);
+    background-color: #878b98 ;
+    vertical-align: top;
+    margin: 8px;
+    padding: 8px;
+    border: 1px solid  #696c75 ;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+/*li.Home
+{
+    color: red;/*
+}
