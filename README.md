@@ -1,2 +1,2 @@
-# Projeto-Meu-Site-Pessoal
+# Projeto-Vegeta-s-Page
 Site de treinamento prático do Visual Studios Code
